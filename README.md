@@ -75,6 +75,3 @@ The `LoggingManager` logs events using Java’s built-in logging framework. By d
 - **Error Handling:** The program will exit if an invalid file format is encountered or if required files are missing.
 - **Route Calculation:** The optimal route is computed based on the connectivity defined in `connections.txt`. Adjust the routing algorithm if needed.
 - **Extensibility:** Further enhancements may include more complex configuration parsing, better route optimization, or a GUI interface.
-
-## Contact
-For further queries or contributions, please contact the developer or file an issue.
